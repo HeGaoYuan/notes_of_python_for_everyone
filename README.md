@@ -1,0 +1,3 @@
+# This is my notebook of Python for Everyone course.
+
+I am learning, and the notebook is constructing......
